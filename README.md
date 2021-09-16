@@ -27,8 +27,8 @@ Example
 ```sh
 ارسل للبوت : نقل ملكيه البوت
 ```
-[MoHaMMeD](https://t.me/TFT9T)
+[Dev](https://t.me/TFT9T)
 
 [Source developer](https://t.me/TFT4T)
 
-[Channel explanation](https://t.me/TFT4T)
+[Dev](https://t.me/LFLLA)
